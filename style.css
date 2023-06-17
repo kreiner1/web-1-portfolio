@@ -10,7 +10,12 @@ body {
     display: grid;
     background-color: rgb(151, 144, 107);
 }
-
+h2 {
+    font-size: 20px;
+}
+figcaption {
+    font-size: 30px;
+}
 main {
     /* css grid */
     place-self: center;
