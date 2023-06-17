@@ -11,10 +11,12 @@ body {
     background-color: rgb(151, 144, 107);
 }
 h2 {
-    font-size: 20px;
+    font-size: 30px;
+    color: rgb(244, 45, 45)
 }
 figcaption {
-    font-size: 30px;
+    font-size: 60px;
+    color: rgb(45, 178, 224);
 }
 main {
     /* css grid */
