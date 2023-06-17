@@ -8,7 +8,7 @@
 /* Layout with css grid */
 body {
     display: grid;
-    color: rgb(244, 45, 45)
+    background-color: red;
 }
 
 main {
